@@ -29,7 +29,7 @@ I sit at the intersection of **AI/ML**, **data science**, and **Python developme
 ## 🎓 Education & Achievements
 
 - 🏫 **RGPV University** — Computer Science Engineering
-- 🏆 **Top 3 Coder** — Coding Ninja Weekly
+- 🏆 ** AIR 917** — Coding Ninjas Competition
 - 🚁 **Ranked 6th** — 2022 National Drone Competition
 - 💡 **Hack Challenge 2023** — Participant & Innovator
 - 🐍 **HackerRank Python Certified**
