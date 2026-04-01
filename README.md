@@ -38,11 +38,11 @@ I sit at the intersection of **AI/ML**, **data science**, and **Python developme
 
 ## 🚧 What I'm Currently Working On
 
-- 🤖 Building **AI-powered Python applications** using LLMs and intelligent agents at Movate
-- ☁️ Designing **cloud-native data pipelines** (AWS / GCP) for scalable data solutions
-- 📊 Exploring **MLOps practices** to bridge the gap between model development and deployment
-- 🧠 Deepening expertise in **NLP** — from SMS classifiers to production-ready language models
-- 🧪 Contributing to team knowledge sharing — because good engineering is a team sport
+- 🐍 Developing and optimizing Python-based automation solutions using SQL and REST APIs — boosting workflow efficiency by 30%
+- 🔍 Automating KPI and log data validation pipelines, improving data accuracy by 25% and minimizing rework incidents
+- 🔌 Performing API integration, testing, and debugging to ensure reliable and high-quality software delivery
+- 🛡️ Implementing structured logging and exception handling, reducing runtime failures by 40%
+- 🤝 Collaborating with cross-functional teams and stakeholders to design, develop, and optimize software solutions
 
 ---
 
