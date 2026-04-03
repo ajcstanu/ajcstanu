@@ -75,10 +75,10 @@ I sit at the intersection of **AI/ML**, **data science**, and **Python developme
 
 ## 💼 Experience
 
-| Role | Company | Type |
-|------|---------|------|
-| Python Developer | **Movate** | Full-time |
-| Data Science Intern | **Bharat Intern** | Internship |
+| Role | Type | Duration |
+|------|------|----------|
+| Python Developer | Full-time | Present |
+| Data Science Intern | Internship 
 
 ---
 
