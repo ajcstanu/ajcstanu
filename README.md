@@ -9,7 +9,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishagupta-g/)
-[![Profile Views](https://komarev.com/ghpvc/?username=tanishagupta-g&style=for-the-badge&color=blueviolet)](https://github.com/tanishagupta-g)
+![Profile Views](https://komarev.com/ghpvc/?username=tanishagupta-g&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 
 </div>
