@@ -25,7 +25,6 @@ class Tanisha:
     def __init__(self):
         self.name        = "Tanisha Gupta"
         self.role        = "Python AI Developer"
-        self.education   = "B.Tech CSE — RGPV Bhopal | CGPA: 8.48"
         self.focus       = ["LLM Applications", "Backend Automation", "Data Analytics"]
         self.languages   = ["Python", "SQL", "C/C++", "Bash"]
         self.frameworks  = ["Flask", "FastAPI", "LangChain"]
@@ -121,45 +120,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 AskMe — PDF QA Web App
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/ajcstanu)
-
-`Flask` `LangChain` `Python` `SQL` `REST APIs`
-
-LLM-powered PDF Question–Answering with document ingestion, chunking, embeddings & semantic search.
-
-- ✅ **35% better** answer relevance
-- ✅ Handles **100+ queries** without degradation
-- ✅ SQL chat history & user query storage
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Sales Report Dashboard
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/ajcstanu)
-
-`Power BI` `Power Query` `Data Modeling`
-
-Interactive dashboards analyzing **1,000+ sales records** to track KPIs and trends.
-
-- ✅ **20% reduction** in reporting effort
-- ✅ Dynamic filters & visual analytics
-- ✅ Full data transformation pipeline
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 📚 Research & Patents
 
 | Type | Title | Status |
@@ -181,7 +141,6 @@ Interactive dashboards analyzing **1,000+ sales records** to track KPIs and tren
 </div>
 
 ---
-
 
 
 ## 📈 Contribution Graph
