@@ -51,7 +51,6 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **AI / ML & Data**
@@ -59,7 +58,6 @@ me.say_hi()
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
@@ -73,8 +71,6 @@ me.say_hi()
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud & Tools**
 
@@ -181,30 +177,12 @@ Interactive dashboards analyzing **1,000+ sales records** to track KPIs and tren
 |---|---|---|
 | 🥇 | Smart India Hackathon 2023 | **National Finalist** |
 | ⭐ | HackerRank Python & C | **5-Star Rating** |
-| 🏅 | Coding Ninjas CP Contest | **AIR 917** |
-| 👥 | ACM Student Chapter | **Chairperson** |
-| 🚁 | National Drone Ranking 2022 | **6th Rank** |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajcstanu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcstanu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
-
-<br/><br/>
-
-<!-- Streak — demolab is the most reliable streak host -->
-<img src="https://streak-stats.demolab.com?user=ajcstanu&theme=tokyonight&hide_border=true" height="175" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -214,15 +192,6 @@ Interactive dashboards analyzing **1,000+ sales records** to track KPIs and tren
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ajcstanu&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7)](https://github.com/ajcstanu)
-
-</div>
 
 ---
 
@@ -240,17 +209,6 @@ Interactive dashboards analyzing **1,000+ sales records** to track KPIs and tren
 
 </div>
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| B.Tech — Computer Science & Engineering | RGPV, Bhopal | 2021 – 2025 | **8.48 / 10** |
-
-</div>
 
 ---
 
