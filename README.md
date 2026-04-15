@@ -26,7 +26,7 @@ class Tanisha:
         self.name        = "Tanisha Gupta"
         self.role        = "Python AI Developer"
         self.focus       = ["LLM Applications", "Backend Automation", "Data Analytics"]
-        self.languages   = ["Python", "SQL", "C/C++", "Bash"]
+        self.languages   = ["Python", "SQL", "C/C++"]
         self.frameworks  = ["Flask", "FastAPI", "LangChain"]
         self.cloud       = ["AWS (EC2, S3, IAM — Basics)"]
         self.currently   = "🎯 Building AI-powered backend automation tools"
