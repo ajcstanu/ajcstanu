@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajcstanu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishagupta-g)
-[![Email](https://img.shields.io/badge/Email-tanishaguptacse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-tanishaguptacse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishaguptacse@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ajcstanu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/ajcstanu)
 
 </div>
