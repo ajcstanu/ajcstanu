@@ -38,7 +38,7 @@ stack = {
 
 ---
 
-## 📦 projects/
+## Projects/
 --------------------------------------------------------
 
 | repo | description | stack |
