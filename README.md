@@ -20,7 +20,6 @@
 # about.py
 focus    = "raw data → SQL → insights → production API"
 learning = "machine learning + FastAPI"
-location = "India 🇮🇳"
 open_to  = "Python · data · AI collaborations"
 ```
 
